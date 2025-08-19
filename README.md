@@ -8,7 +8,7 @@ Business Growth and Revenue Report.
 
 ## Scope
 
-* This report is for the business managers of this company. It will help in understanding key metrics in business growth over time and the causes for the surge in revenue and sales from 2010 to 2012
+* This report is for the business managers of this boutique. It is to understand key business growth metrics and the causes for the surge in revenue and sales from 2010 to 2011
 * The data contains invoice data from 25,000+ sales between 2010 and 2011.
 * I set out make two clear pages report pages. This report only focusses on revenue, product types, and location of sales data.
 
