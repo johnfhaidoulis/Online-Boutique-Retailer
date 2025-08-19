@@ -32,8 +32,8 @@ Business Growth and Revenue Report.
 
 ## Limitations
 
-* To understand the rapid uptake of customers, it would have been beneficial to know the advertising changes (Click through rate & traffic source), SEO changes website traffic, of the business. This is because it is still unclear as to why there was a huge uptake in new customers.
-* To further delve into the business health, it would have been benefical to know the business expenditure to calculate profit margins.
+* To understand the rapid uptake of customers, it is important to have accesss additional data: Advertising changes (Click through rate & traffic source), SEO changes website traffic. This is because it is still unclear as to why there was a huge uptake in new customers.
+* To further delve into the business health, it would have been benefical to know the business expenditure over time to calculate the profit margins.
 
 
 ### References:
