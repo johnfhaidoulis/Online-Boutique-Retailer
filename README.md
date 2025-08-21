@@ -26,7 +26,7 @@ Business Growth and Revenue Report.
 * This business primarily focuses on selling to wholesale buyers suggesting a large increase in connections and deals with major suppliers for boutique items.
 
 ### Sales Regions
-![Sales Regions](Report2.jpg)
+![Sales Regions](Report2.1.jpg)
 * As a UK-based online retailer, the UK was the main location where sales were made.
 * Many countries did not make any purchases in 2010 suggesting the online retailer successfully managed to make international deals with wholesale retailers, however the largest proportion of new customers came from the UK.
 * Countries like Australia, Netherlands, and Czech Republic have a low AOV/high per customer AOV (Relatively high ratio) suggesting more loyal buyers with smaller basket purchases. On the other hand, countries likes Switzerland, USA, and Canada has a high AOV/low per customer AOV (Relatively low ratio) which are low frequency, big purchase transactions. Given this is primarily a wholesale retailer, the business should focus sales and advertising in the low AOV ratio for bigger more efficient shipments and lower admin costs.
