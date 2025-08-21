@@ -8,13 +8,14 @@ Business Growth and Revenue Report.
 
 ## Scope
 
-* This report is for the business managers of this boutique. It is to understand key business growth metrics and the causes for the surge in revenue and sales from 2010 to 2011
+* This Power BI report is for the business managers of this boutique. It is to understand key business growth metrics and the causes for the surge in revenue and sales from 2010 to 2011
 * The data contains invoice data from 25,000+ sales between 2010 and 2011.
-* I set out to make two clear report pages. This report only focuses on revenue, product types, and location of sales data.
+* I set out to make two clear report pages focusing on revenue, product types, customer trends, and location of sales data.
+* The .pbix file can be downloaded and interacted with in MS Power BI desktop.
 
 ## Report and Insights
 
-* The data was processed and optimised in Power BI Desktop.
+* The data was processed and optimised in Power BI Desktop Power Query.
 
 ### Revenue & Customers
 
@@ -29,7 +30,7 @@ Business Growth and Revenue Report.
 ![Sales Regions](Report2.1.jpg)
 * As a UK-based online retailer, the UK was the main location where sales were made.
 * Many countries did not make any purchases in 2010 suggesting the online retailer successfully managed to make international deals with wholesale retailers, however the largest proportion of new customers came from the UK.
-* Countries like Australia, Netherlands, and Czech Republic have a low AOV/high per customer AOV (Relatively high ratio) suggesting more loyal buyers with smaller basket purchases. On the other hand, countries likes Switzerland, USA, and Canada has a high AOV/low per customer AOV (Relatively low ratio) which are low frequency, big purchase transactions. Given this is primarily a wholesale retailer, the business should focus sales and advertising in the low AOV ratio for bigger more efficient shipments and lower admin costs.
+* Countries like Australia, Netherlands, and Czech Republic have a low AOV/high per customer AOV (Relatively high ratio) suggesting more loyal buyers (frequent site visits) with smaller basket purchases. On the other hand, countries likes Switzerland, USA, and Canada has a high AOV/low per customer AOV (Relatively low ratio) which are low frequency, big purchase transactions. Given this is primarily a wholesale retailer, the business should focus sales and advertising in the low AOV ratio for bigger more efficient shipments and lower admin costs.
 
 
 ## Limitations
